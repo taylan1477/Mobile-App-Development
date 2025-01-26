@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#212121</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="background">#121212</color> <!-- Siyah arka plan -->
+    <color name="primary">#FFD700</color> <!-- Altın sarısı -->
+    <color name="hintText">#BDB76B</color> <!-- Sarı tonlu ipucu -->
+    <color name="white">#FFFFFF</color> <!-- Beyaz metin -->
+</resources>

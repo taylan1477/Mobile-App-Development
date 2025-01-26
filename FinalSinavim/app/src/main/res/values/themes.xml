@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalSinavim" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.FinalSinavim" parent="Base.Theme.FinalSinavim" />
+</resources>

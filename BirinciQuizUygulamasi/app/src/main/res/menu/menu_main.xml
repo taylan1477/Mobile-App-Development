@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:title="Ana Ekran"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_login"
+        android:title="Giriş Yap"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_red"
+        android:title="Tema: Kırmızı"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_blue"
+        android:title="Tema: Mavi"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_yellow"
+        android:title="Tema: Sarı"
+        app:showAsAction="never" />
+</menu>

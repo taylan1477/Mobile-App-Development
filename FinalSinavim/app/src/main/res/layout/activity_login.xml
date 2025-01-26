@@ -1,0 +1,59 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#121212"
+    tools:ignore="ExtraText"> <!-- Siyah tema için arka plan -->
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="205dp" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFD700"
+        android:hint="Mail Adresi"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFD700" />
+
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Şifre"
+        android:inputType="textPassword"
+        android:textColorHint="#FFD700"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FFD700" />
+
+
+    <!-- Giriş Butonu -->
+
+    <!-- Kayıt Butonu -->
+    <Button
+        android:id="@+id/loginButton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#FFD700"
+        android:elevation="4dp"
+        android:text="Giriş Yap"
+        android:textColor="#121212" />
+
+    <Button
+        android:id="@+id/loginButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#FFD700"
+        android:elevation="4dp"
+        android:text="Kayıt Ol"
+        android:textColor="#121212" />
+
+</LinearLayout>
