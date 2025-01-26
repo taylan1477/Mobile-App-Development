@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">VizeFinalHesaplamaTaylan</string>
-    <string name="Vize">Vize Notunuzu Giriniz:</string>
-    <string name="Final">Final Notunuzu Giriniz:</string>
-    <string name="hesapla">Hesapla</string>
-    <string name="sonucText">Sonuc</string>
-    <string name="baldiText">Baldi</string>
-</resources>
